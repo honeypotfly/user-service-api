@@ -10,6 +10,14 @@ app.get('/', (req, res) => res.json([
     {
         name: "Alice",
         email: "alice@example.com"
+    },
+    {
+        name: "Jake",
+        email: "jake@example.com"
+    },
+    {
+        name: "Maria",
+        email: "maria@example.com"
     }
 ]))
 
